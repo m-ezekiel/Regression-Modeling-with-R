@@ -1,0 +1,5 @@
+install.packages("alr3") - Chapter 3
+install.packages("car") - Chapter 6
+install.packages("leaps") - Chapter 7
+install.packages("nlme") - Chapter 9
+install.packages("KernSmooth") - Appendix
